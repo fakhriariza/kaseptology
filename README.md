@@ -20,13 +20,13 @@ Website barbershop premium yang dibangun dengan **Next.js 14**, **Tailwind CSS**
 
 ## Tech Stack
 
-| Teknologi      | Fungsi                |
-|----------------|----------------------|
-| Next.js 14     | React framework       |
-| Tailwind CSS   | Styling               |
-| Framer Motion  | Animasi               |
-| Firebase       | Backend (Firestore)   |
-| TypeScript     | Type safety           |
+| Teknologi     | Fungsi              |
+| ------------- | ------------------- |
+| Next.js 14    | React framework     |
+| Tailwind CSS  | Styling             |
+| Framer Motion | Animasi             |
+| Firebase      | Backend (Firestore) |
+| TypeScript    | Type safety         |
 
 ---
 
@@ -145,7 +145,7 @@ kaseptology/
 │   └── bookings.ts       # Utilitas booking & data layanan
 ├── public/
 │   └── images/
-│       └── logo.jpg      # Logo brand
+│       └── logo.png      # Logo brand
 ├── .env.local.example    # Template environment variables
 ├── tailwind.config.js    # Tailwind dengan warna brand
 ├── next.config.js        # Konfigurasi Next.js
